@@ -61,7 +61,3 @@ In this example, a graph with five vertices is created, and edges are added betw
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-Feel free to use and modify this algorithm as per your requirements.
-
-If you find any issues or have suggestions for improvement, please feel free to contribute or open an issue.
